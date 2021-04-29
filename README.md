@@ -7,6 +7,9 @@ BEKOOR6. The live streaming and shopping mobile application.
 * Interactive Commerce Platform
 * Mobile Shopping platform that enables user conveniece
 
+## Goal
+* specification and architecture design of target system
+
 
 ## Member
 Full Name | Github ID | Email
