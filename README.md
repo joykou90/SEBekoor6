@@ -18,3 +18,6 @@ Youngkyoung Kim | Agnes-Kim | agnes66k@naver.com
 Kou Yanran | joykou90 | joy.kou.divg@gmail.com
 Juhyung Kim  | shinera01 | kjhkjh75@naver.com
 
+## architecture 
+![image](https://user-images.githubusercontent.com/48971920/116597009-11788e00-a960-11eb-8f38-6a2fa022597a.png)
+
